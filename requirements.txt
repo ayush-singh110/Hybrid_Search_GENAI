@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_core
+python-dotenv
+pinecone
+pinecone_text
+pinecone_notebooks
+langchain_huggingface
